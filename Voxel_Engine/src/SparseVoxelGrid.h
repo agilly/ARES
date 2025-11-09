@@ -189,6 +189,3 @@ private:
     // Static empty voxel for const access to unoccupied space
     static const Voxel emptyVoxel;
 };
-
-// Definition of static empty voxel
-const Voxel SparseVoxelGrid::emptyVoxel = Voxel();

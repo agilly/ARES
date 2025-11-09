@@ -6,7 +6,6 @@
 #include "SparseVoxelMotion.h"
 #include "UnifiedVoxelExporter.h"
 #include "Scenario.h"
-#include "InferenceBridge.hpp"
 
 
 using namespace std;

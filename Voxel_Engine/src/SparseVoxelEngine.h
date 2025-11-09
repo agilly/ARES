@@ -257,8 +257,6 @@ private:
     static const Voxel emptyVoxel;
 };
 
-const Voxel SparseVoxelGrid::emptyVoxel = Voxel();
-
 /**
  * @class SparseVoxelEngine
  * @brief Enhanced VoxelEngine with aggressive performance optimizations
